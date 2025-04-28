@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anushree!
+- 👋 Hi, I’m Anushree, a CS student
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning how to solve real-world problems using AI 
 
