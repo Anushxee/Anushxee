@@ -2,7 +2,7 @@
 
 🎓 Computer Science Undergraduate (Class of 2027)  
 🤖 Aspiring AI/ML Engineer | Passionate about solving real-world problems using technology  
-📍 India | Actively building, learning, and growing
+📍Hyderabad, India | Actively building, learning, and growing
 
 ---
 
@@ -60,9 +60,8 @@ More projects coming soon. Stay tuned!
 
 ## 📫 Let’s Connect
 
-- 🔗 LinkedIn:[(https://www.linkedin.com/in/anushree-bhattacharya-9740232b0/)]
+- 🔗 LinkedIn: https://www.linkedin.com/in/anushxee
 - 📧 Email: anushree0001@gmail.com 
-- 🌐 Portfolio: (coming soon)
 
 ---
 
