@@ -57,6 +57,8 @@ I'm currently upskilling in:
 More projects coming soon. Stay tuned!
 
 ---
+## 📄Portfolio
+- Link: https://anushxee.github.io/Portfolio/
 
 ## 📫 Let’s Connect
 
