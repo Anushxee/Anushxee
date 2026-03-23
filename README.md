@@ -26,12 +26,10 @@ I'm currently upskilling in:
 
 ## 🛠️ Tech Stack & Tools
 
-- **Languages**: Python, Java, JavaScript, C   
-- **AI/ML**: TensorFlow, Hugging Face, OpenAI APIs, Whisper  
-- **Orchestration**: LangChain, Streamlit  
+- **Languages**: Python, Java,    
+- **AI/ML**: TensorFlow, OpenCV, Hugging Face, OpenAI APIs, Whisper  
+- **Orchestration**: LangChain, Streamlit, Netlify  
 - **Cloud**: AWS (Learning), Firebase (Basic)  
-- **Frontend**: React, TailwindCSS  
-- **Dev Tools**: Git, VS Code, Figma  
 
 ---
 
