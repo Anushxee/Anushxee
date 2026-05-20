@@ -12,7 +12,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Soham+Roy!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!;+I'm+Anushree+Bhattacharya!;" />
 
 <h2>📖 | About me</h2> 
 🎓 Computer Science Undergraduate (Class of 2027)  
