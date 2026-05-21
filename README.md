@@ -15,9 +15,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!;+I'm+Anushree+Bhattacharya!;" />
 
 <h2>📖 | About me</h2> 
-🎓 Computer Science Undergraduate (Class of 2027)  
-🤖 Aspiring AI/ML Engineer | Passionate about solving real-world problems using technology  
-📍Hyderabad, India | Actively building, learning, and growing
+Computer Science undergraduate with a strong foundation in AI, Machine Learning, Deep Learning, Computer Vision, and Python development. Passionate about building real-world, scalable tech solutions by combining AI/ML, Data Structures & Algorithms, and cloud platforms like AWS. Experienced in developing hands-on projects ranging from AI-driven video tools to gesture recognition applications, while continuously strengthening problem-solving skills through consistent DSA practice. Eager to apply technical expertise and innovative thinking in impactful roles and collaborative environments.
 
 
 <div align="center">
@@ -73,5 +71,3 @@
 </table>
 <br>
 
-------
-**Credits :** [Original Template by codediaz](https://github.com/codediaz)
