@@ -2,9 +2,7 @@
   <a style="text-decoration: none" target="_blank" href="https://github.com/Anushxee">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Anushxee.Anushxee&left_color=gray&right_color=blue&left_text=Coders%20visitors">
   </a>
-  <a style="text-decoration: none" target="_blank" href="https://instagram.com/Anushxee">
-    <img width="60" src="https://img.shields.io/badge/-Follow%20on%20Instagram-E4405F?style=social&logo=instagram&logoColor=white">
-  </a>
+
   <a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/Anushxee">
     <img width="70" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white">
   </a>
