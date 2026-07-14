@@ -6,7 +6,7 @@
     <img width="60" src="https://img.shields.io/badge/-Follow%20on%20Instagram-E4405F?style=social&logo=instagram&logoColor=white">
   </a>
   <a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/Anushxee">
-    <img width="70" src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white">
+    <img width="70" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white">
   </a>
 </div>
 
@@ -37,13 +37,6 @@ Computer Science undergraduate with a strong foundation in AI, Machine Learning,
     </tr>
   </table>
 </div>
-
-<h2>🔥 | My contribution streak</h2>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=  Anushxee#version3"/>
-  </a>
-</p>
 
 
 <h2>🛠️ | Languages, Frameworks, and Tools</h2>
