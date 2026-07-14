@@ -24,17 +24,6 @@ Computer Science undergraduate with a strong foundation in AI, Machine Learning,
 
 <h2>📚 | Education</h2>
 <p>I am pursuing my B.Tech in Computer Science at KIIT University, where I continually refine my skills, build projects and contribute to innovative research projects.</p>
-<br>
-<div align="center">
-  <table style="margin-left: auto; margin-right: auto;">
-    <tr>
-      <td align="center">
-        <strong>KIIT University</strong><br><strong>B.Tech</strong> Computer Science<br>
-        <img src="https://progress-bar.dev/100/" width="105" alt="progress-bar"/>
-      </td>
-    </tr>
-  </table>
-</div>
 
 
 <h2>🛠️ | Languages, Frameworks, and Tools</h2>
