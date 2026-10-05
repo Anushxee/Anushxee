@@ -51,3 +51,6 @@ Computer Science undergraduate with a strong foundation in AI, Machine Learning,
 </table>
 <br>
 
+<img width="305" height="16" alt="image" src="https://github.com/user-attachments/assets/66556bf9-b36d-4634-9339-96748bcf08c7" />
+
+
